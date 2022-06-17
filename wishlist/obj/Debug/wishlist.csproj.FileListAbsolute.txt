@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\wishlist\wishlist\bin\Debug\wishlist.exe.config
+C:\Users\Lenovo\source\repos\wishlist\wishlist\bin\Debug\wishlist.exe
+C:\Users\Lenovo\source\repos\wishlist\wishlist\bin\Debug\wishlist.pdb
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.g.resources
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.exe
+C:\Users\Lenovo\source\repos\wishlist\wishlist\obj\Debug\wishlist.pdb
